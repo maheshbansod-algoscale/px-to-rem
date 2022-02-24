@@ -1,0 +1,30 @@
+
+nb-tab.content-tab {
+  height: calc(100vh - 7rem);
+  padding-bottom:0;
+}
+
+:host ::ng-deep .tabs-menu nav .user-picture {
+  width: 80px !important;
+  height: 80px !important;
+  font-size: 27px !important;
+  background: #333758 !important;
+  color: #FFFFFF !important;
+}
+
+:host ::ng-deep .tabs-menu nav{
+  height: 100% !important;
+}
+
+
+:host ::ng-deep .tabs-menu nav .user-name {
+  font-size: 32px;
+  color: #333758 !important;
+}
+
+:host ::ng-deep .tabset {
+  font-size: 8px;
+  font-size: 7px;
+  display: none !important;
+}
+
