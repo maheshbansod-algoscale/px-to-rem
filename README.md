@@ -1,4 +1,4 @@
-# make-font-sizes-rem
+# px-to-rem
 Change all sizes in SCSS and HTML files in a directory from `px` to `rem`
 \[ Updated to change all sizes and not just font sizes ]
 
