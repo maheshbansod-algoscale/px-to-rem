@@ -1,5 +1,6 @@
 # make-font-sizes-rem
-Change all font sizes in SCSS and HTML files in a directory from `px` to `rem`
+Change all sizes in SCSS and HTML files in a directory from `px` to `rem`
+\[ Updated to change all sizes and not just font sizes ]
 
 ## Usage
 `python3 main.py dir/to/code/`
